@@ -7,7 +7,7 @@
 
 ## ScreenShot
 
-![routeApp](assets\Screenshots\routeApp.gif)
+![routeApp](assets/Screenshots/routeApp.gif)
 
 If you need run a unit test please run this command first :
 
